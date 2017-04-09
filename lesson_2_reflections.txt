@@ -26,3 +26,8 @@ You can see that each commit has a parent (except the very first init commit).
 Branches are just names for humans, git remembers ids.
 You have to remember, that some commits (not related to branches) can be UNREACHABLE!
 Diagrams help visualize which commits belong to which branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches results in one branch with all changes.
+Diagram helps to know what changes have been merged.
