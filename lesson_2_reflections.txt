@@ -31,3 +31,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 Merging two branches results in one branch with all changes.
 Diagram helps to know what changes have been merged.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merges save time, but they do not know how to resolve merge conflicts
+Humans should resolve them manually
