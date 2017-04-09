@@ -19,3 +19,10 @@ What are some situations when branches would be helpful in keeping your history 
 
 Branches are helpful when you want to branch out from your master plan.
 By naming them it is easier to remember, what you wanted to do inside.
+
+How do the diagrams help you visualize the branch structure?
+
+You can see that each commit has a parent (except the very first init commit).
+Branches are just names for humans, git remembers ids.
+You have to remember, that some commits (not related to branches) can be UNREACHABLE!
+Diagrams help visualize which commits belong to which branch.
