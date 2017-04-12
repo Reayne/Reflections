@@ -22,3 +22,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 When you want to review changes made remotely from your own computer
 and compare them to your local changes
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+By emailing the files to each other...
